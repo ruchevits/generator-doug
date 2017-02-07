@@ -1,0 +1,32 @@
+{
+  "name": "generator-doug",
+  "version": "1.0.0",
+  "description": "Generates a set of Solidity contracts following the DOUG paradigm",
+  "author": {
+    "name": "Edward Ruchevits",
+    "email": "ruchevits@gmail.com",
+    "url": "http://ruchevits.com"
+  },
+  "files": [
+    "generators"
+  ],
+  "main": "generators/index.js",
+  "keywords": [
+    "blockchain",
+    "ethereum",
+    "dapp",
+    "solidity",
+    "eris",
+    "doug",
+    "smart contract",
+    "framework",
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "to-pascal-case": "^1.0.0",
+    "yeoman-generator": "^1.0.0"
+  },
+  "repository": "ruchevits/generator-doug",
+  "license": "MIT"
+}
